@@ -139,13 +139,3 @@
 <p align="center">
   <a href="#top"><img src="https://img.shields.io/badge/Back_to_Top-004D40?style=for-the-badge&logo=Upwork&logoColor=white" /></a>
 </p>
-
-<!-- Quote -->
-<p align="center">
-  <em style="color:#2E8B57">"I'm someone who can't stop exploring."</em>
-</p>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=90&color=0:006400,100:2E8B57" alt="footer" />
-</p>
