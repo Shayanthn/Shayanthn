@@ -1,79 +1,87 @@
-<!-- Shayan Taherkhani • Profile README (Pro • Old-Money) -->
-<div align="center">
+<!-- 🌌 Aurora Style Header -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shayanthn/shayantaherkhani.github.io/main/file_000000003c7061f698c731eb9caef603.png" width="140" style="border-radius:50%; box-shadow:0 0 60px rgba(144,53,212,0.8);" alt="logo"/>
+</p>
 
-  <!-- Header (theme-aware) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D0D0F,100:0D0D0F&text=Shayan%20Taherkhani&fontSize=46&fontAlign=50&fontAlignY=36&fontColor=D4AF37&desc=Security%20%E2%80%A2%20ML%20%E2%80%A2%20Systems&descAlign=50&descAlignY=65" alt="Shayan Header" class="gh-dark-mode-only" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:F0F2F5,100:F0F2F5&text=Shayan%20Taherkhani&fontSize=46&fontAlign=50&fontAlignY=36&fontColor=0D0D0F&desc=Security%20%E2%80%A2%20ML%20%E2%80%A2%20Systems&descAlign=50&descAlignY=65" alt="Shayan Header" class="gh-light-mode-only" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&size=40&duration=2800&pause=1000&color=9F44FF&center=true&vCenter=true&width=600&lines=Shayan+Taherkhani;AI+Researcher+%7C+Full-Stack+Developer;Founder+of+AetherosTech;Can't+Stop+Exploring+🚀" alt="Typing SVG" />
+</h1>
 
-  <!-- Tagline -->
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&pause=1200&duration=2500&center=true&vCenter=true&width=680&lines=I'm+someone+who+can't+stop+exploring;Passionate+about+Technology;Always+Learning,+Always+Improving" alt="typing" />
+---
 
-  <!-- Quick links -->
-  <p>
-    <a href="mailto:admin@shayantaherkhani.ir"><img alt="Email" src="https://img.shields.io/badge/Contact-D4AF37?style=flat&logo=minutemailer&logoColor=0D0D0F&labelColor=0D0D0F"></a>
-    <a href="https://shayantaherkhani.ir"><img alt="Website" src="https://img.shields.io/badge/Website-0D0D0F?style=flat&logo=googlechrome&logoColor=D4AF37&labelColor=0D0D0F&color=D4AF37"></a>
-    <a href="https://scholar.google.com/citations?user=S0jy4-IAAAAJ&hl=en"><img alt="Scholar" src="https://img.shields.io/badge/Google%20Scholar-D4AF37?style=flat&logo=googlescholar&logoColor=0D0D0F&labelColor=0D0D0F"></a>
-    <a href="https://www.researchgate.net/profile/Shayan-Taherkhani"><img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=0D0D0F&labelColor=0D0D0F"></a>
-  </p>
+## ✨ About Me
+- 🎓 AI Researcher (**Drug–Target Interaction + Deep Learning**)  
+- 💻 Developer of **AI apps, bots, security suites & full-stack platforms**  
+- 🚀 Founder of **AetherosTech**  
+- 🌌 Explorer of **Ideas That Keep Me Awake at Night**
 
-  <!-- Divider -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=2&section=footer" alt="divider"/>
-</div>
+---
 
-<!-- Two-column layout -->
-<table width="100%">
-  <tr>
-    <td width="55%" valign="top">
-
-      <h3>About</h3>
-      <ul>
-        <li>Security-focused developer with a taste for ML and systems.</li>
-        <li>Building clean, reliable tooling with a craftsman mindset.</li>
-        <li>Exploring networking, optimization, and human-centered UX.</li>
-      </ul>
-
-      <h3>Tech</h3>
-      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,linux,docker,git,js,html,css&theme=light" alt="skills" />
-      <br/><br/>
-
-      <h3>Publications</h3>
-      <p>See my latest works on <a href="https://scholar.google.com/citations?user=S0jy4-IAAAAJ&hl=en">Google Scholar</a> and <a href="https://www.researchgate.net/profile/Shayan-Taherkhani">ResearchGate</a>.</p>
-
-    </td>
-    <td width="45%" valign="top" align="center">
-
-      <h3>Stats</h3>
-      <img height="145" alt="stats" src="https://github-readme-stats.vercel.app/api?username=Shayanthn&show_icons=true&hide_border=true&theme=transparent&title_color=D4AF37&text_color=ffffff&icon_color=9035D4" />
-      <img height="145" alt="streak" src="https://streak-stats.demolab.com?user=Shayanthn&theme=dark&hide_border=true&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&dates=A1A1A6&background=0D0D0F00" />
-      <br/>
-      <img height="140" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shayanthn&layout=compact&hide_border=true&theme=transparent&title_color=D4AF37&text_color=ffffff" />
-
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <!-- Activity graph -->
-  <img alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Shayanthn&bg_color=transparent&color=D4AF37&line=9035D4&point=66A6FF&area=true&hide_border=true" />
-
-  <!-- Featured repositories -->
-  <h3>Featured</h3>
-  <a href="https://github.com/Shayanthn/V2ray-Tester-Pro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shayanthn&repo=V2ray-Tester-Pro&theme=transparent&hide_border=true&title_color=D4AF37&text_color=ffffff&icon_color=9035D4" alt="V2ray-Tester-Pro"/>
+## 🌍 My Websites & Projects
+<p align="center">
+  <a href="https://shayantaherkhani.ir" target="_blank">
+    <img src="https://img.shields.io/badge/shayantaherkhani.ir-7D3C98?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://github.com/Shayanthn/dsm-compress">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shayanthn&repo=dsm-compress&theme=transparent&hide_border=true&title_color=D4AF37&text_color=ffffff&icon_color=9035D4" alt="dsm-compress"/>
+  <a href="https://aetherai.ir" target="_blank">
+    <img src="https://img.shields.io/badge/aetherai.ir-154360?style=for-the-badge&logo=cloudflare&logoColor=white" />
   </a>
-  <br/>
-  <a href="https://github.com/Shayanthn/Real-Time-Emotion-Detection-with-OpenCV-DeepFace">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shayanthn&repo=Real-Time-Emotion-Detection-with-OpenCV-DeepFace&theme=transparent&hide_border=true&title_color=D4AF37&text_color=ffffff&icon_color=9035D4" alt="Emotion-Detection"/>
+  <a href="https://stickerino.ir" target="_blank">
+    <img src="https://img.shields.io/badge/stickerino.ir-922B21?style=for-the-badge&logo=apple&logoColor=white" />
   </a>
-  <a href="https://github.com/Shayanthn/AetherosSec">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shayanthn&repo=AetherosSec&theme=transparent&hide_border=true&title_color=D4AF37&text_color=ffffff&icon_color=9035D4" alt="AetherosSec"/>
-  </a>
+</p>
 
-  <!-- Footer -->
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=2&section=footer" alt="divider"/>
-  <p>
-    <img alt
+📩 **University Email:** `shayan.taherkhani@studio.unibo.it`
+
+---
+
+## 🤝 Connect With Me  
+
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=S0jy4-IAAAAJ&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Shayanthn" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.researchgate.net/profile/Shayan-Taherkhani" target="_blank">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
+  </a>
+  <a href="mailto:admin@shayantaherkhani.ir">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shayantaherkhani78" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,react,flask,django,mysql,git,linux,js,ts,html,css,tailwind&perline=8" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shayanthn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shayanthn&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shayanthn&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🎶 Fun Fact
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Manrope&size=22&duration=2500&pause=800&color=58D68D&center=true&vCenter=true&width=500&lines=Every+line+of+code+is+a+note+in+my+symphony.;Building+tech+that+feels+like+magic.;Exploring+the+unknown+is+my+comfort+zone." alt="Typing SVG" />
+</p>
+
+---
+
+<p align="center" style="font-size:14px; color:#999;">
+  © 2025 Shayan Taherkhani • AetherosTech 🌌
+</p>
