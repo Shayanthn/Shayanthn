@@ -24,7 +24,10 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=800&size=28&duration=3000&pause=1000&color=006400&vCenter=true&random=false&width=600&lines=I'm+someone+who+can't+stop+exploring;AI+%26+ML+Researcher;Full‑Stack+%26+Product+Builder;Founder+%40+AetherosTech" alt="Typing SVG" />
       <p align="left">
         <img src="https://img.shields.io/badge/GitHub%20PRO-%E2%9C%93-2E8B57?style=for-the-badge&logo=github&logoColor=white&labelColor=004D40" alt="PRO" />
-        <img src="https://komarev.com/ghpvc/?username=shayanthn&style=for-the-badge&color=2E8B57&label=Profile+Views" alt="views" />
+        <!-- Modified profile views counter to start from 1132 -->
+        <img src="https://komarev.com/ghpvc/?username=shayanthn&style=for-the-badge&color=2E8B57&label=Profile+Views&base=1132" alt="views" />
+        <!-- New: Repository views counter -->
+        <img src="https://img.shields.io/badge/dynamic/json?&style=for-the-badge&color=00A36C&logo=github&logoColor=white&label=Repo+Views&query=count&url=https://github-repository-views-counter.herokuapp.com/api/shayanthn/count" alt="repo views"/>
         <img src="https://img.shields.io/github/followers/shayanthn?label=Followers&style=for-the-badge&color=00A36C&logoColor=white&labelColor=004D40" alt="followers" />
       </p>
     </td>
@@ -134,9 +137,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=90&color=0:006400,100:2E8B57" alt="footer" />
 </p>
-</p>
-
-<p align="center">
   <a href="#top"><img src="https://img.shields.io/badge/Back_to_Top-004D40?style=for-the-badge&logo=Upwork&logoColor=white" /></a>
 </p>
 
