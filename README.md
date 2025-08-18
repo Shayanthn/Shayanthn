@@ -3,13 +3,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Shayan%20Taherkhani&fontAlign=50&fontSize=60&fontColor=FFFFFF&color=0:006400,100:2E8B57&desc=AI%20%7C%20Research%20%7C%20Builder&descAlign=50&descSize=20&descAlignY=75" alt="Royal Green Header" />
 
-  <!-- Royal Nav Bar - Add new sections -->
+  <!-- Royal Nav Bar -->
   <p align="center">
     <a href="#overview"><img src="https://img.shields.io/badge/OVERVIEW-004D40?style=for-the-badge" alt="Overview"/></a>
     <a href="#analytics"><img src="https://img.shields.io/badge/ANALYTICS-00A36C?style=for-the-badge" alt="Analytics"/></a>
     <a href="#links"><img src="https://img.shields.io/badge/LINKS-006400?style=for-the-badge" alt="Links"/></a>
-    <a href="#coding"><img src="https://img.shields.io/badge/CODING_STATS-2E8B57?style=for-the-badge" alt="Coding"/></a>
-    <a href="#updates"><img src="https://img.shields.io/badge/UPDATES-008000?style=for-the-badge" alt="Updates"/></a>
     <a href="#stack"><img src="https://img.shields.io/badge/TECH_STACK-008000?style=for-the-badge" alt="Tech"/></a>
   </p>
 </div>
@@ -73,68 +71,43 @@
   <a href="#top"><img src="https://img.shields.io/badge/Back_to_Top-004D40?style=for-the-badge&logo=Upwork&logoColor=white" /></a>
 </p>
 
-<!-- CODING STATS SECTION - New section with live coding metrics -->
-<a id="coding"></a>
-<h2 align="center">⏱️ Royal Coding Metrics</h2>
+<!-- Links Section in Royal Cards - Cleaned up layout -->
+<a id="links"></a>
+<h2 align="center">🏰 Connect & Explore</h2>
 
-<!-- Weekly coding stats from WakaTime -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shayanthn&layout=compact&bg_color=0D1117&title_color=2E8B57&text_color=FFFFFF&hide_border=true" alt="Coding Time Stats" />
-</p>
-
-<!-- 3D Contribution Calendar - changes yearly -->
-<p align="center">
-  <a href="https://skyline.github.com/shayanthn/2023">
-    <img src="https://img.shields.io/badge/GitHub_Skyline_3D-View_Contributions_in_3D-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="3D Calendar"/>
-  </a>
-</p>
-
-<!-- Spotify Now Playing - dynamically updates -->
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=shayantaherkhani&count=1&unique=true" alt="Spotify Recently Played" />
-</p>
-
-<p align="center">
-  <a href="#top"><img src="https://img.shields.io/badge/Back_to_Top-004D40?style=for-the-badge&logo=Upwork&logoColor=white" /></a>
-</p>
-
-<!-- UPDATES SECTION - New section with latest content -->
-<a id="updates"></a>
-<h2 align="center">📜 Royal Proclamations</h2>
-
-<!-- Latest Medium or Dev.to blog posts -->
-<table border="0" width="100%">
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <h3 align="center" style="color:#006400;">📝 Latest Writings</h3>
-      
-      <!-- BLOG-POST-WORKFLOW:START -->
-      <!-- This will be populated automatically using GitHub Actions -->
-      <!-- BLOG-POST-WORKFLOW:END -->
-      
-      <p align="center">
-        <a href="YOUR_BLOG_URL">
-          <img src="https://img.shields.io/badge/Read_My_Blog-004D40?style=for-the-badge&logo=medium&logoColor=white" alt="Blog"/>
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="10">
+    <tr>
+      <td align="center" width="50%">
+        <h3 style="color:#006400;">🌐 My Kingdoms</h3>
+        <a href="https://shayantaherkhani.ir">
+          <img src="https://img.shields.io/badge/shayantaherkhani.ir-004D40?style=for-the-badge&logo=safari&logoColor=white" alt="Personal Site"/>
+        </a><br/><br/>
+        <a href="https://aetherai.ir">
+          <img src="https://img.shields.io/badge/aetherai.ir-006400?style=for-the-badge&logo=ethereum&logoColor=white" alt="AI Site"/>
+        </a><br/><br/>
+        <a href="https://stickerino.ir">
+          <img src="https://img.shields.io/badge/stickerino.ir-2E8B57?style=for-the-badge&logo=etsy&logoColor=white" alt="Store"/>
         </a>
-      </p>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <h3 align="center" style="color:#006400;">🌟 Latest Achievement</h3>
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&author=Steve%20Jobs" alt="Quote" />
-      
-      <p align="center">
-        <a href="https://github.com/shayanthn?tab=repositories">
-          <img src="https://img.shields.io/badge/Check_My_Work-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      </td>
+      <td align="center" width="50%">
+        <h3 style="color:#006400;">👑 Royal Contacts</h3>
+        <a href="mailto:admin@shayantaherkhani.ir">
+          <img src="https://img.shields.io/badge/Email-admin%40shayantaherkhani.ir-004D40?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+        </a><br/><br/>
+        <a href="mailto:shayan.taherkhani@studio.unibo.it">
+          <img src="https://img.shields.io/badge/University-studio.unibo.it-006400?style=for-the-badge&logo=academia&logoColor=white" alt="University"/>
+        </a><br/><br/>
+        <a href="https://www.linkedin.com/in/shayantaherkhani78">
+          <img src="https://img.shields.io/badge/LinkedIn-shayantaherkhani78-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        </a><br/><br/>
+        <a href="https://scholar.google.com/citations?user=S0jy4-IAAAAJ&hl=en">
+          <img src="https://img.shields.io/badge/Google%20Scholar-Research-2E8B57?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Scholar"/>
         </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<!-- Dynamic Badge for Visitors -->
-<p align="center">
-  <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=shayanthn.royal-profile&logo=github&style=for-the-badge&text=Royal_Visitors&color=006400&labelColor=004D40&lcolor=white" alt="Visitors Counter" />
-</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
   <a href="#top"><img src="https://img.shields.io/badge/Back_to_Top-004D40?style=for-the-badge&logo=Upwork&logoColor=white" /></a>
@@ -161,39 +134,18 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=90&color=0:006400,100:2E8B57" alt="footer" />
 </p>
+</p>
 
-<!-- SETUP INSTRUCTIONS (For repo owner - Delete after setup) -->
-<!--
-To make the dynamic content work:
+<p align="center">
+  <a href="#top"><img src="https://img.shields.io/badge/Back_to_Top-004D40?style=for-the-badge&logo=Upwork&logoColor=white" /></a>
+</p>
 
-1. BLOG POSTS: 
-   - Create a .github/workflows/blog-post-workflow.yml file with:
-   ```yaml
-   name: Latest blog posts workflow
-   on:
-     schedule:
-       - cron: '0 * * * *' # Hourly
-     workflow_dispatch:
-   jobs:
-     update-readme-with-blog:
-       name: Update README with latest blog posts
-       runs-on: ubuntu-latest
-       steps:
-         - uses: actions/checkout@v2
-         - uses: gautamkrishnar/blog-post-workflow@master
-           with:
-             feed_list: "YOUR_BLOG_RSS_FEED_URL"
-             max_post_count: 3
-             template: "<a href='$url'>$title</a><br/><em>$date</em><br/>"
-   ```
+<!-- Quote -->
+<p align="center">
+  <em style="color:#2E8B57">"I'm someone who can't stop exploring."</em>
+</p>
 
-2. WAKATIME:
-   - Sign up for WakaTime and connect your code editors
-   - Add your WakaTime API key as a GitHub secret
-   - Update the username in the WakaTime card URL
-
-3. SPOTIFY:
-   - Follow setup at https://github.com/JeffreyCA/spotify-recently-played-readme
-
-4. Update the links and personalize quotes as needed
--->
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=90&color=0:006400,100:2E8B57" alt="footer" />
+</p>
