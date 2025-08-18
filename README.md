@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shayanthn/shayantaherkhani.github.io/main/file_000000003c7061f698c731eb9caef603.png" width="96" height="96" alt="Avatar" />
+  <img src="https://raw.githubusercontent.com/Shayanthn/shayantaherkhani.github.io/main/file_000000003c7061f698c731eb9caef603.png" width="104" height="104" alt="Avatar" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=800&size=30&duration=2800&pause=900&color=F5F5F7&center=true&vCenter=true&width=900&lines=I'm+someone+who+can't+stop+exploring;AI+%26+ML+Researcher;Full‑Stack+%26+Product+Builder;Founder+%40+AetherosTech" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=32&duration=2600&pause=900&color=F5F5F7&center=true&vCenter=true&width=940&lines=I'm+someone+who+can't+stop+exploring;AI+%26+ML+Researcher;Full‑Stack+%26+Product+Builder;Founder+%40+AetherosTech" alt="typing" />
 </p>
 
 <p align="center">
