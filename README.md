@@ -17,15 +17,15 @@
 <table border="0">
   <tr>
     <td width="30%" align="center" valign="middle">
-      <img src="https://github.com/shayanthn.png" width="200" height="200" style="border-radius:50%; border:4px solid #006400;" alt="Avatar" />
+      <img src="https://github.com/Shayanthn.png" width="200" height="200" style="border-radius:50%; border:4px solid #006400;" alt="Avatar" />
     </td>
     <td width="70%" valign="middle">
       <h1 align="left" style="color:#006400;">Shayan Taherkhani</h1>
       <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=800&size=28&duration=3000&pause=1000&color=006400&vCenter=true&random=false&width=600&lines=I'm+someone+who+can't+stop+exploring;AI+%26+ML+Researcher;Full‑Stack+%26+Product+Builder;Founder+%40+AetherosTech" alt="Typing SVG" />
       <p align="left">
         <img src="https://img.shields.io/badge/GitHub%20PRO-%E2%9C%93-2E8B57?style=for-the-badge&logo=github&logoColor=white&labelColor=004D40" alt="PRO" />
-        <img src="https://komarev.com/ghpvc/?username=shayanthn&style=for-the-badge&color=2E8B57&label=Profile+Views" alt="views" />
-        <img src="https://img.shields.io/github/followers/shayanthn?label=Followers&style=for-the-badge&color=00A36C&logoColor=white&labelColor=004D40" alt="followers" />
+        <img src="https://komarev.com/ghpvc/?username=Shayanthn&style=for-the-badge&color=2E8B57&label=Profile+Views" alt="views" />
+        <img src="https://img.shields.io/github/followers/Shayanthn?label=Followers&style=for-the-badge&color=00A36C&logoColor=white&labelColor=004D40" alt="followers" />
       </p>
     </td>
   </tr>
@@ -45,18 +45,18 @@
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=shayanthn&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2E8B57&text_color=FFFFFF&icon_color=2E8B57" width="400" alt="stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Shayanthn&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2E8B57&text_color=FFFFFF&icon_color=2E8B57" width="400" alt="stats" />
       </td>
       <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=shayanthn&hide_border=true&background=0D1117&stroke=2E8B57&ring=2E8B57&fire=00A36C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2E8B57&sideLabels=2E8B57&dates=FFFFFF" width="400" alt="streak" />
+        <img src="https://streak-stats.demolab.com/?user=Shayanthn&hide_border=true&background=0D1117&stroke=2E8B57&ring=2E8B57&fire=00A36C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2E8B57&sideLabels=2E8B57&dates=FFFFFF" width="400" alt="streak" />
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayanthn&layout=compact&bg_color=0D1117&title_color=2E8B57&text_color=FFFFFF&hide_border=true" width="400" alt="top langs" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shayanthn&layout=compact&bg_color=0D1117&title_color=2E8B57&text_color=FFFFFF&hide_border=true" width="400" alt="top langs" />
       </td>
       <td align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=shayanthn&theme=darkhub&no-bg=true&no-frame=true&row=2&column=3&title_color=2E8B57" width="400" alt="trophies" />
+        <img src="https://github-profile-trophy.vercel.app/?username=Shayanthn&theme=darkhub&no-bg=true&no-frame=true&row=2&column=3" width="400" alt="trophies" />
       </td>
     </tr>
   </table>
@@ -64,7 +64,7 @@
 
 <!-- Activity Graph with Green Theme -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shayanthn&bg_color=0D1117&color=FFFFFF&line=2E8B57&point=00A36C&area=true&hide_border=true&custom_title=Royal%20Contributions" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shayanthn&bg_color=0D1117&color=FFFFFF&line=2E8B57&point=00A36C&area=true&hide_border=true&custom_title=Royal%20Contributions" alt="activity graph" />
 </p>
 
 <p align="center">
@@ -133,7 +133,6 @@
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=90&color=0:006400,100:2E8B57" alt="footer" />
-</p>
 </p>
 
 <p align="center">
