@@ -15,7 +15,20 @@
 <table border="0" width="100%">
   <tr>
     <td width="30%" align="center" valign="middle">
-      <img src="./photo_2025-11-22_20-56-23.jpg" width="200" height="200" style="border-radius:50%; border:4px solid #006400;" alt="Avatar" />
+      <div style="position: relative;">
+        <img 
+          src="./photo_2025-11-22_20-56-23.jpg" 
+          width="180" 
+          height="180" 
+          style="
+            border-radius: 50%; 
+            object-fit: cover; 
+            border: 4px solid #2E8B57; 
+            padding: 4px; 
+            background-color: #0D1117;" 
+          alt="Avatar" 
+        />
+      </div>
     </td>
     <td width="70%" valign="middle">
       <h1 align="left" style="color:#006400;">Shayan Taherkhani</h1>
@@ -76,10 +89,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://medium.com/@shayanthn78">
-    <img src="https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    <img src="https://img.shields.io/badge/Medium-Read_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
   <a href="https://www.buymeacoffee.com/ShayanTaherkhani">
-    <img src="https://img.shields.io/badge/Sponsor-Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BMC"/>
+    <img src="https://img.shields.io/badge/Support-Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BMC"/>
   </a>
   
   <br/><br/>
