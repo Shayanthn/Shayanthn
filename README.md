@@ -27,9 +27,6 @@
         <img src="https://komarev.com/ghpvc/?username=shayanthn&style=for-the-badge&color=2E8B57&label=Profile+Views" alt="views" />
         <img src="https://img.shields.io/github/followers/shayanthn?label=Followers&style=for-the-badge&color=00A36C&logoColor=white&labelColor=004D40" alt="followers" />
       </p>
-       <p align="left">
-        </a>
-      </p>
     </td>
   </tr>
 </table>
@@ -79,22 +76,23 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://medium.com/@shayanthn78">
-    <img src="https://img.shields.io/badge/Medium-Read_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    <img src="https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
   <a href="https://www.buymeacoffee.com/ShayanTaherkhani">
-    <img src="https://img.shields.io/badge/Support-Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BMC"/>
+    <img src="https://img.shields.io/badge/Sponsor-Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BMC"/>
   </a>
   
-  <br/><br/>
+  <br/>
+  <br/>
   
   <a href="mailto:admin@shayantaherkhani.ir">
-    <img src="https://img.shields.io/badge/Email-admin%40shayantaherkhani.ir-004D40?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact_Me-004D40?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="mailto:shayan.taherkhani@studio.unibo.it">
-    <img src="https://img.shields.io/badge/Uni-studio.unibo.it-006400?style=for-the-badge&logo=academia&logoColor=white" alt="University"/>
+    <img src="https://img.shields.io/badge/Uni-Bologna-006400?style=for-the-badge&logo=academia&logoColor=white" alt="University"/>
   </a>
-  <a href="https://scholar.google.com/citations?user=S0jy4-IAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Scholar-Publications-2E8B57?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Scholar"/>
+  <a href="https://www.researchgate.net/profile/Shayan-Taherkhani">
+    <img src="https://img.shields.io/badge/ResearchGate-Profile-2E8B57?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/>
   </a>
 </div>
 
