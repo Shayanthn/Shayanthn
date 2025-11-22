@@ -26,7 +26,6 @@
         <img src="https://img.shields.io/badge/GitHub%20PRO-%E2%9C%93-2E8B57?style=for-the-badge&logo=github&logoColor=white&labelColor=004D40" alt="PRO" />
         <img src="https://komarev.com/ghpvc/?username=shayanthn&style=for-the-badge&color=2E8B57&label=Profile+Views" alt="views" />
         <img src="https://img.shields.io/github/followers/shayanthn?label=Followers&style=for-the-badge&color=00A36C&logoColor=white&labelColor=004D40" alt="followers" />
-        <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="ShayanTaherkhani" data-color="#064c1b" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
       </p>
     </td>
   </tr>
