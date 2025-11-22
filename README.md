@@ -28,8 +28,6 @@
         <img src="https://img.shields.io/github/followers/shayanthn?label=Followers&style=for-the-badge&color=00A36C&logoColor=white&labelColor=004D40" alt="followers" />
       </p>
        <p align="left">
-        <a href="https://www.buymeacoffee.com/ShayanTaherkhani">
-          <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
         </a>
       </p>
     </td>
