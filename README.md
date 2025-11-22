@@ -1,108 +1,119 @@
 <a id="top"></a>
 
-<div align="right">
-  <a href="#about"><code>About</code></a> •
-  <a href="#trophies"><code>Levels</code></a> •
-  <a href="#stats"><code>Metrics</code></a> •
-  <a href="#stack"><code>Tech</code></a> •
-  <a href="#contact"><code>Contact</code></a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Shayan%20Taherkhani&fontAlign=50&fontSize=60&fontColor=FFFFFF&color=0:006400,100:2E8B57&desc=AI%20%7C%20Research%20%7C%20Builder&descAlign=50&descSize=20&descAlignY=75" alt="Royal Green Header" />
+
+  <p align="center">
+    <a href="#overview"><img src="https://img.shields.io/badge/OVERVIEW-004D40?style=for-the-badge" alt="Overview"/></a>
+    <a href="#analytics"><img src="https://img.shields.io/badge/ANALYTICS-00A36C?style=for-the-badge" alt="Analytics"/></a>
+    <a href="#links"><img src="https://img.shields.io/badge/CONNECT-006400?style=for-the-badge" alt="Links"/></a>
+    <a href="#stack"><img src="https://img.shields.io/badge/TECH_STACK-008000?style=for-the-badge" alt="Tech"/></a>
+  </p>
 </div>
 
-<br />
-
-<a id="about"></a>
+<a id="overview"></a>
 <table border="0" width="100%">
   <tr>
-    <td width="65%" valign="middle">
-      <h1 style="font-size: 50px; margin-bottom: 0;">Hi, I'm <span style="color:#2E8B57;">Shayan</span>.</h1>
-<a id="about"></a>
-<table border="0" width="100%">
-<tr>
-<td width="65%" valign="middle">
-<h1 style="font-size: 50px; margin-bottom: 0;">Hi, I'm <span style="color:#2E8B57;">Shayan</span>.</h1>
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=808080&width=500&lines=AI+%26+Deep+Learning+Researcher;Building+Scalable+Web+Apps;Open+Source+Enthusiast;Founder+%40+AetherosTech" alt="Typing SVG" />
-</a>
-<br /><br />
-<div>
-<img src="https://img.shields.io/github/followers/shayanthn?style=social&label=Followers&color=2E8B57" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/shayanthn?style=social&label=Total+Stars&color=2E8B57" alt="Stars"/>
-<br/>
-<img src="https://komarev.com/ghpvc/?username=shayanthn&style=flat-square&color=2E8B57&label=Profile+Views" alt="Views"/>
-<img src="https://img.shields.io/github/languages/count/shayanthn?style=flat-square&color=006400&label=Languages" alt="Lang Count"/>
-<img src="https://img.shields.io/github/repo-size/shayanthn/shayanthn?style=flat-square&color=00A36C&label=Repo+Size" alt="Size"/>
-</div>
-<br />
-<p style="font-size: 16px; line-height: 1.6; color: #b0b0b0;">
-Bridging the gap between <b>Academic Research</b> and <b>Engineering</b>. <br/>
-Focusing on AI, Computer Vision, and Full-Stack Development.
+    <td width="30%" align="center" valign="middle">
+      <img src="https://github.com/shayanthn.png" width="200" height="200" style="border-radius:50%; border:4px solid #006400;" alt="Avatar" />
+    </td>
+    <td width="70%" valign="middle">
+      <h1 align="left" style="color:#006400;">Shayan Taherkhani</h1>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=800&size=26&duration=3000&pause=1000&color=006400&vCenter=false&random=false&width=600&lines=I'm+someone+who+can't+stop+exploring;AI+%26+ML+Researcher;Full‑Stack+%26+Product+Builder;Founder+%40+AetherosTech" alt="Typing SVG" />
+      </a>
+      <p align="left">
+        <img src="https://img.shields.io/badge/GitHub%20PRO-%E2%9C%93-2E8B57?style=for-the-badge&logo=github&logoColor=white&labelColor=004D40" alt="PRO" />
+        <img src="https://komarev.com/ghpvc/?username=shayanthn&style=for-the-badge&color=2E8B57&label=Profile+Views" alt="views" />
+        <img src="https://img.shields.io/github/followers/shayanthn?label=Followers&style=for-the-badge&color=00A36C&logoColor=white&labelColor=004D40" alt="followers" />
+      </p>
+       <p align="left">
+        <a href="https://www.buymeacoffee.com/ShayanTaherkhani">
+          <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:006400,100:2E8B57" alt="divider" />
 </p>
-</td>
-<td width="35%" align="center" valign="middle">
-<img src="https://i.pinimg.com/originals/f3/98/95/f398950c4c449c2865942f9df2736166.gif" width="100%" style="border-radius: 12px; box-shadow: 0 0 20px rgba(46, 139, 87, 0.2);" alt="AI Visualization"/>
-</td>
-</tr>
-</table>
-  </tr>
-</table>
 
-<br/>
-
-<a id="trophies"></a>
-<h3 align="left">🏆 Achievements & Levels</h3>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shayanthn&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" width="100%" alt="trophies" />
-</div>
-
-<br/>
-
-<a id="stats"></a>
-<h3 align="left">📊 Analytical Data</h3>
-<table border="0" width="100%">
-  <tr>
-    <td width="55%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=shayanthn&show_icons=true&hide_border=true&bg_color=00000000&title_color=2E8B57&text_color=b0b0b0&icon_color=2E8B57&count_private=true&include_all_commits=true&rank_icon=github" width="100%" alt="stats" />
-    </td>
-    <td width="45%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayanthn&layout=compact&hide_border=true&bg_color=00000000&title_color=2E8B57&text_color=b0b0b0&langs_count=6" width="100%" alt="languages" />
-    </td>
-  </tr>
-</table>
+<a id="analytics"></a>
+<h2 align="center">📊 Kingdom Metrics</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shayanthn&bg_color=0D1117&color=b0b0b0&line=2E8B57&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity" />
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=shayanthn&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2E8B57&text_color=FFFFFF&icon_color=2E8B57" width="400" alt="stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=shayanthn&hide_border=true&background=0D1117&stroke=2E8B57&ring=2E8B57&fire=00A36C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2E8B57&sideLabels=2E8B57&dates=FFFFFF" width="400" alt="streak" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayanthn&layout=compact&bg_color=0D1117&title_color=2E8B57&text_color=FFFFFF&hide_border=true" width="400" alt="top langs" />
+      </td>
+      <td align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=shayanthn&theme=darkhub&no-bg=true&no-frame=true&row=2&column=3&title_color=2E8B57" width="400" alt="trophies" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br/><br/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shayanthn&bg_color=0D1117&color=FFFFFF&line=2E8B57&point=00A36C&area=true&hide_border=true&custom_title=Royal%20Contributions" alt="activity graph" />
+</p>
 
-<a id="stack"></a>
-<h3 align="left">⚡ Royal Arsenal</h3>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,anaconda,scikitlearn,fastapi&theme=dark" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,docker,linux,git,postgres,mongodb,redis&theme=dark" />
-</div>
+<p align="center">
+  <a href="#top"><img src="https://img.shields.io/badge/Back_to_Top-004D40?style=for-the-badge&logo=Upwork&logoColor=white" /></a>
+</p>
 
-<br/><br/>
+<a id="links"></a>
+<h2 align="center">🏰 Connect & Explore</h2>
+<p align="center">Let's build something amazing together.</p>
 
-<a id="contact"></a>
 <div align="center">
   <a href="https://www.linkedin.com/in/shayantaherkhani78">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://medium.com/@shayanthn78">
-    <img src="https://img.shields.io/badge/Medium-Read-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    <img src="https://img.shields.io/badge/Medium-Read_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
-  <a href="mailto:admin@shayantaherkhani.ir">
-    <img src="https://img.shields.io/badge/Email-Contact-2E8B57?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://www.buymeacoffee.com/ShayanTaherkhani">
+    <img src="https://img.shields.io/badge/Support-Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BMC"/>
   </a>
   
   <br/><br/>
   
-  <p style="color:#505050; font-size:12px;">Made with 💚 by Shayan</p>
-
-  <a href="https://www.buymeacoffee.com/ShayanTaherkhani">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  <a href="mailto:admin@shayantaherkhani.ir">
+    <img src="https://img.shields.io/badge/Email-admin%40shayantaherkhani.ir-004D40?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="mailto:shayan.taherkhani@studio.unibo.it">
+    <img src="https://img.shields.io/badge/Uni-studio.unibo.it-006400?style=for-the-badge&logo=academia&logoColor=white" alt="University"/>
+  </a>
+  <a href="https://scholar.google.com/citations?user=S0jy4-IAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Scholar-Publications-2E8B57?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Scholar"/>
   </a>
 </div>
+
 <br/>
+
+<a id="stack"></a>
+<h2 align="center">⚔️ Royal Arsenal</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express&theme=dark" alt="Frontend/Backend"/><br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,docker,linux,git,postgres,mongodb&theme=dark" alt="AI/DevOps"/>
+</div>
+
+<br/>
+
+<p align="center">
+  <em style="color:#2E8B57">"I'm someone who can't stop exploring."</em>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=90&color=0:006400,100:2E8B57" alt="footer" />
+</p>
