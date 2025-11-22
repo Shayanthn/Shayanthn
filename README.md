@@ -17,7 +17,7 @@
     <td width="30%" align="center" valign="middle">
       <div style="position: relative;">
         <img 
-          src="./photo_2025-11-22_20-56-23.jpg" 
+          src="./Gemini_Generated_Image_6a3mhm16amhm16amh.png" 
           width="180" 
           height="180" 
           style="
