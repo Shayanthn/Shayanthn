@@ -15,7 +15,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="30%" align="center" valign="middle">
-      <img src="https://github.com/shayanthn.png" width="200" height="200" style="border-radius:50%; border:4px solid #006400;" alt="Avatar" />
+      <img src="./photo_2025-11-22_20-56-23.jpg" width="200" height="200" style="border-radius:50%; border:4px solid #006400;" alt="Avatar" />
     </td>
     <td width="70%" valign="middle">
       <h1 align="left" style="color:#006400;">Shayan Taherkhani</h1>
@@ -82,8 +82,7 @@
     <img src="https://img.shields.io/badge/Sponsor-Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BMC"/>
   </a>
   
-  <br/>
-  <br/>
+  <br/><br/>
   
   <a href="mailto:admin@shayantaherkhani.ir">
     <img src="https://img.shields.io/badge/Email-Contact_Me-004D40?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
