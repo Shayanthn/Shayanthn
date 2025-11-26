@@ -14,31 +14,23 @@
 <a id="overview"></a>
 <table border="0" width="100%">
   <tr>
-    <td width="30%" align="center" valign="middle">
-            <div style="position: relative;">
-        <div 
+    <td width="30%" align="center" valign="top">
+            <div style="position: relative; margin-top: 10px;">
+        <img 
+          src="YOUR_RAIN_CODE_GIF_URL" 
+          width="180" 
+          height="180" 
           style="
-            width: 180px; 
-            height: 180px; 
-            border-radius: 50%; 
-            border: 4px solid #800000; 
-            padding: 4px; 
-            background-color: #0D1117; 
-            overflow: hidden; 
-            display: flex; 
-            justify-content: center; 
-            align-items: center; 
-            font-family: monospace;
-            font-size: 18px;
-            color: #15523e; /* رنگ اولیه کد */
-            line-height: 0.9;"
-        >
-                    
-        </div>
+            border-radius: 50%; 
+            object-fit: cover; 
+            border: 4px solid #800000; 
+            background-color: #0D1117;" 
+          alt="Binary Rain Code Avatar" 
+        />
       </div>
     </td>
-    <td width="70%" valign="middle">
-      <h1 align="left" style="color:#15523e;">Shayan Taherkhani</h1>
+    <td width="70%" valign="top">
+      <h1 align="left" style="color:#15523e; margin-top: 0;">Shayan Taherkhani</h1>
       <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=800&size=26&duration=3000&pause=1000&color=800000&vCenter=false&random=false&width=600&lines=I'm+someone+who+can't+stop+exploring;AI+%26+ML+Researcher;Full‑Stack+%26+Product+Builder;Founder+%40+AetherosTech" alt="Typing SVG" />
       </a>
@@ -59,24 +51,11 @@
 <h2 align="center">📊 Kingdom Metrics</h2>
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=shayanthn&show_icons=true&hide_border=true&bg_color=0D1117&title_color=800000&text_color=FFFFFF&icon_color=15523e" width="400" alt="stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=shayanthn&hide_border=true&background=0D1117&stroke=15523e&ring=800000&fire=800000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=15523e&sideLabels=15523e&dates=FFFFFF" width="400" alt="streak" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayanthn&layout=compact&bg_color=0D1117&title_color=800000&text_color=FFFFFF&hide_border=true" width="400" alt="top langs" />
-      </td>
-      <td align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=shayanthn&theme=darkhub&no-bg=true&no-frame=true&row=2&column=3&title_color=15523e" width="400" alt="trophies" />
-      </td>
-    </tr>
-  </table>
+    <img src="https://github-readme-stats.vercel.app/api?username=shayanthn&show_icons=true&hide_border=true&bg_color=0D1117&title_color=800000&text_color=FFFFFF&icon_color=15523e" width="45%" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shayanthn&hide_border=true&background=0D1117&stroke=15523e&ring=800000&fire=800000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=15523e&sideLabels=15523e&dates=FFFFFF" width="45%" alt="streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayanthn&layout=compact&bg_color=0D1117&title_color=800000&text_color=FFFFFF&hide_border=true" width="45%" alt="top langs" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shayanthn&theme=darkhub&no-bg=true&no-frame=true&row=2&column=3&title_color=15523e" width="45%" alt="trophies" />
 </div>
 
 <p align="center">
