@@ -51,7 +51,7 @@
 <h2 align="center">📊 Kingdom Metrics</h2>
 
 <div align="center" style="
-    border: 3px solid #FFFFFF; 
+    border: 3px solid #800000; 
     border-radius: 8px; 
     padding: 15px; 
     background-color: #0D1117; 
@@ -83,7 +83,7 @@
   </a>
   <a href="https://medium.com/@shayanthn78">
     <img src="https://img.shields.io/badge/Medium-Read_Articles-800000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-    </a>
+  </a>
   <a href="https://www.buymeacoffee.com/Shayantaherkhani">
     <img src="https://img.shields.io/badge/Support-Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BMC"/>
   </a>
@@ -117,4 +117,4 @@
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=90&color=0:15523e,100:800000" alt="footer" />
-</p>
+</p> 
