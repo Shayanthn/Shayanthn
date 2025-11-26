@@ -50,14 +50,20 @@
 <a id="analytics"></a>
 <h2 align="center">📊 Kingdom Metrics</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shayanthn&show_icons=true&hide_border=true&bg_color=0D1117&title_color=800000&text_color=FFFFFF&icon_color=15523e" width="45%" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shayanthn&hide_border=true&background=0D1117&stroke=15523e&ring=800000&fire=800000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=15523e&sideLabels=15523e&dates=FFFFFF" width="45%" alt="streak" />
+<div align="center" style="
+    border: 3px solid #800000; 
+    border-radius: 8px; 
+    padding: 15px; 
+    background-color: #0D1117; 
+    max-width: 900px; 
+    margin: 0 auto;">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=shayanthn&show_icons=true&hide_border=true&bg_color=0D1117&title_color=800000&text_color=FFFFFF&icon_color=15523e" width="48%" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shayanthn&hide_border=true&background=0D1117&stroke=15523e&ring=800000&fire=800000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=15523e&sideLabels=15523e&dates=FFFFFF" width="48%" alt="streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayanthn&layout=compact&bg_color=0D1117&title_color=800000&text_color=FFFFFF&hide_border=true" width="45%" alt="top langs" />
-  <img src="https://github-profile-trophy.vercel.app/?username=shayanthn&theme=darkhub&no-bg=true&no-frame=true&row=2&column=3&title_color=15523e" width="45%" alt="trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayanthn&layout=compact&bg_color=0D1117&title_color=800000&text_color=FFFFFF&hide_border=true" width="48%" alt="top langs" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shayanthn&theme=darkhub&no-bg=true&no-frame=true&row=2&column=3&title_color=15523e" width="48%" alt="trophies" />
 </div>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shayanthn&bg_color=0D1117&color=FFFFFF&line=15523e&point=800000&area=true&hide_border=true&custom_title=System%20Contributions" alt="activity graph" />
 </p>
