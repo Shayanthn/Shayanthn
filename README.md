@@ -17,7 +17,7 @@
     <td width="30%" align="center" valign="top">
       <div style="position: relative; margin-top: 10px;">
         <img
-          src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjBwaXlyN2ZvczB5M3VzaWZzZ2h2M2IzNmhvN2g0bXIyMG1nM2t5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif"
+          src="https://github.com/Shayanthn/Shayanthn/blob/f8ee21a602bcfcae28ae7af94444731484aee760/Coding%20The%20Matrix%20GIF.gif"
           width="180"
           height="180"
           style="
