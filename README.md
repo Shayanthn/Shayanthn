@@ -17,7 +17,7 @@
     <td width="30%" align="center" valign="top">
       <div style="position: relative; margin-top: 10px;">
         <img
-          src="YOUR_RAIN_CODE_GIF_URL"
+          src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjBwaXlyN2ZvczB5M3VzaWZzZ2h2M2IzNmhvN2g0bXIyMG1nM2t5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif"
           width="180"
           height="180"
           style="
